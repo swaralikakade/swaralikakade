@@ -6,13 +6,10 @@
 
 - 🌱 I’m currently learning **MERN stack development and Android**
 
-- 👨‍💻 All of my projects are available at [https://swaralikakade.github.io/](https://swaralikakade.github.io/)
-
 - 💬 Ask me about **react, android , node**
 
 - 📫 How to reach me **swaralikakade5@gmail.com**
 
-- ⚡ Fun fact **I know I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
